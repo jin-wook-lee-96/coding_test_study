@@ -29,5 +29,5 @@ for i in range(N):
             print(-1)
         else:
             print(queue[-1])
-
+#END
 
