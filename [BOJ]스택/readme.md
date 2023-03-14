@@ -27,4 +27,4 @@ N = int(sys.stdin.readline())
 # 시간복잡도로 인해 sys페키지를 사용
 stack.append()
 stack.pop()
-#스택의 기본인 선입선출을 위한 두 방법
+#스택의 기본인 선입후출을 위한 두 방법
