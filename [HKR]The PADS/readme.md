@@ -11,4 +11,4 @@ OCCUPATIONS에서 각 직업의 발생 횟수를 쿼리합니다. 발생 횟수�
 
 Translated with www.DeepL.com/Translator (free version)
 
-N과 K가 주어지면 (N, K)-요세푸스 순열을 구하는 프로그램을 작성하시오.
+수정중,,
