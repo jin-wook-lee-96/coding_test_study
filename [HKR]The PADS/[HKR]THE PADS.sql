@@ -4,4 +4,4 @@ ORDER BY Name ASC;
 SELECT 'There are a total of ' || COUNT(Occupation)||' '|| LOWER(Occupation) || 's.' as result
 FROM OCCUPATIONS
 GROUP BY Occupation
-ORDER BY result;
+ORDER BY result;;
