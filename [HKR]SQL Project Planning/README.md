@@ -1,0 +1,1 @@
+[문제]{https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true}
